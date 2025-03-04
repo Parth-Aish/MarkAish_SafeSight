@@ -26,8 +26,8 @@ class _HomeScreenState extends State<HomeScreen> {
   final List<Contact> _contacts = [];
   
   // Telegram configuration.
-  final String telegramBotToken = "7180128406:AAEFM1umDZmq2qpO0phAJa3WLjKhhQZMAak";
-  final String telegramChatId = "6586619016";
+  final String telegramBotToken = "BOT_TOKEN";
+  final String telegramChatId = "CHATOID";
   
   // Common bold Inter text style.
   final TextStyle boldStyle = const TextStyle(
