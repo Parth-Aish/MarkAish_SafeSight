@@ -87,8 +87,3 @@ For further inquiries or to discuss collaboration opportunities, please contact:
 - **MarkAish Team, Chandigarh University**
 - **Lead Developer:** Parth (23BAI70549)
 - **UI/UX Designer:** M.Devasis Singh (23BAI70549)
-```
-
----
-
-Simply copy and paste the above markdown into your project's `README.md` file, update the placeholders (like the Telegram credentials), and you’re all set!
