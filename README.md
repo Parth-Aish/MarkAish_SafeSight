@@ -62,7 +62,7 @@ This project is a prototype designed to showcase potential AI-driven safety solu
    flutter pub get
    ```
 4. **Configure Environment Variables:**
-   - Create a `.env` file (or use your preferred configuration method) to store sensitive data such as:
+   - Create a `.env` file (or use your preferred configuration method) to store sensitive data such as:(Do It In Home Screen And OTP Sending Screen)
      ```
      TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
      TELEGRAM_CHAT_ID=your_telegram_chat_id_here
